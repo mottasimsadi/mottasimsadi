@@ -34,6 +34,18 @@
 <img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/mongo.png"/>
 </p><br/>
 
+## :eyes: Current overview
+
+
+### 🔍 Exploring Next.js – diving into React’s powerful framework to build dynamic, server-rendered apps
+### 📊 Analyzing Data with Jupyter Notebooks – enhancing skills in data visualization and exploratory programming
+### 🤖 Learning Machine Learning in Python – applying ML techniques to personal or academic projects
+### 🛠 Contributing to Open-Source Projects – improving code, collaborating, and growing through community involvement
+### 🧩 Integrating APIs into frontend applications for dynamic, real-time data
+### 📱 Practicing Responsive Design for seamless experiences across all devices
+
+
+<br />
 
 <!--
 **mottasimsadi/mottasimsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
