@@ -16,25 +16,23 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/HTML.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/css.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/JavaScript.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/python.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/c.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/cpp.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/HTML.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/css.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/JavaScript.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/python.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/c.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/react.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/redux.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/sass.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/tailwind.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/Bootsrap.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/firebase.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/react.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/tailwind.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Bootsrap.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/node.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/express.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/icons/mongo.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/node.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/express.png"/>
+<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/mongo.png"/>
 </p><br/>
 
 
