@@ -1,63 +1,97 @@
-## Hi there 👋, I am Mottasim Billah Sadi. I am a Frontend Developer.
-
+<!-- Banner -->
 <a href="https://www.facebook.com/mottasim.sadi">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Banner.png" />
+  <img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Banner.png" alt="Banner" />
 </a>
 
-## :mailbox: Reach me out
+# 👋 Hi, I'm Mottasim Billah Sadi
+**Frontend Developer | Passionate about crafting modern, responsive, and user-friendly web applications**
 
-<br />
+---
 
-[<p align="center"><img height="75" src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Linkedin.png">](https://www.linkedin.com/in/mottasimsadi/) [<img height="75" src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Facebook.png">](https://www.facebook.com/mottasim.sadi/) </p>
-
-<br />
-
-## :computer: Technologies that I know
-
-<br>
+## 📫 Reach Me
 <p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/HTML.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/css.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/JavaScript.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/python.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/c.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/cpp.png"/>
+  <a href="https://www.linkedin.com/in/mottasimsadi/">
+    <img height="75" src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/mottasim.sadi/">
+    <img height="75" src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Facebook.png" alt="Facebook">
+  </a>
 </p>
-<p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/react.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/tailwind.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/node.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/express.png"/>
-<img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/mongo.png"/>
-</p><br/>
 
-## :eyes: Current overview
+📧 **Email:** mottasimsadi@gmail.com  
 
+---
 
-### 🔍 Exploring Next.js – diving into React’s powerful framework to build dynamic, server-rendered apps
-### 📊 Analyzing Data with Jupyter Notebooks – enhancing skills in data visualization and exploratory programming
-### 🤖 Learning Machine Learning in Python – applying ML techniques to personal or academic projects
-### 🛠 Contributing to Open-Source Projects – improving code, collaborating, and growing through community involvement
-### 🧩 Integrating APIs into frontend applications for dynamic, real-time data
-### 📱 Practicing Responsive Design for seamless experiences across all devices
+### Skills
+#### Frontend
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/HTML.png" width="48" /><br>HTML5</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/css.png" width="48" /><br>CSS3</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/JavaScript.png" width="48" /><br>JavaScript (ES6+)</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/react.png" width="48" /><br>React.js</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/tailwind.png" width="48" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" height="28" /><br>DaisyUI</td>
+    <td align="center">📱<br>Responsive Design</td>
+    <td align="center">♿️<br>Accessibility (a11y)</td>
+    <td align="center">⚡<br>Web Performance</td>
+  </tr>
+</table>
 
+#### Backend & Databases
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/node.png" width="48" /><br>Node.js</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/express.png" width="48" /><br>Express.js</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/mongo.png" width="48" /><br>MongoDB</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/firebase.png" width="48" /><br>Firebase</td>
+  </tr>
+</table>
 
-<br />
+#### Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/python.png" width="48" /><br>Python</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/c.png" width="48" /><br>C</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/cpp.png" width="48" /><br>C++</td>
+  </tr>
+</table>
 
-<!--
-**mottasimsadi/mottasimsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tools & Dev Workflow
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28" /><br>Git</td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /><br>GitHub</td>
+    <td align="center"><img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" /><br>VS Code</td>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="28" /><br>Figma</td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+#### Deployment & DevOps (basic)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28" /><br>Vercel</td>
+    <td align="center"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="28" /><br>Netlify</td>
+    <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/firebase.png" width="48" /><br>Firebase Hosting</td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Current Activities
+
+- 🎨 **Exploring Tailwind CSS & DaisyUI** to create modern, responsive UI components  
+- ⚛ **Building ReactJS Projects** with reusable components and state management  
+- 🌐 **Improving Web Performance** through optimization techniques and best practices  
+- 🧩 **Integrating APIs** into frontend applications for dynamic, real-time data  
+- 📱 **Practicing Responsive Design** for seamless experiences across all devices  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mottasimsadi&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mottasimsadi&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mottasimsadi&show_icons=true&theme=radical)  
+
+---
