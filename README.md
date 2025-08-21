@@ -80,7 +80,7 @@
 
 ## 📌 Current Activities
 
-- 🎨 **Exploring Tailwind CSS & DaisyUI** to create modern, responsive UI components  
+- 🎨 **Exploring Tailwind CSS & Shadcn UI** to create modern, responsive UI components  
 - ⚛ **Building ReactJS Projects** with reusable components and state management  
 - 🌐 **Improving Web Performance** through optimization techniques and best practices  
 - 🧩 **Integrating APIs** into frontend applications for dynamic, real-time data  
