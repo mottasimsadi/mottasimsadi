@@ -10,9 +10,11 @@
 
 ## 👨‍💻 About Me
 I'm a dedicated **Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills.
-📧 Email: mottasimsadi@gmail.com
-📱 WhatsApp: +8801554409444
-🔗 LinkedIn: https://www.linkedin.com/in/mottasimsadi/
+
+📧 **Email:** mottasimsadi@gmail.com
+📱 **WhatsApp:** +8801554409444
+🔗 **LinkedIn:** https://www.linkedin.com/in/mottasimsadi/
+🌐 **Portfolio:** https://mottasim-sadi.netlify.app/
 
 ---
 
