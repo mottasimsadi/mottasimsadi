@@ -39,94 +39,24 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-style:hidden;">
-  <tr style="border-style:hidden;">
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /><br>HTML5
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" /><br>React
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /><br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+| <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/><br>CSS3 | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=react" alt="React"/><br>React | <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br>Tailwind CSS |
+|:---:|:---:|:---:|:---:|:---:|
 
 ### ⚙️ Backend & Databases
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-style:hidden;">
-  <tr style="border-style:hidden;">
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" /><br>Express.js
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /><br>Firebase
-    </td>
-  </tr>
-</table>
+| <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br>Node.js | <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/><br>Express.js | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><br>Firebase |
+|:---:|:---:|:---:|:---:|
 
 ### 📝 Languages
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-style:hidden;">
-  <tr style="border-style:hidden;">
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>Python
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br>Java
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /><br>C++
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" /><br>C
-    </td>
-  </tr>
-</table>
+| <img src="https://skillicons.dev/icons?i=python" alt="Python"/><br>Python | <img src="https://skillicons.dev/icons?i=java" alt="Java"/><br>Java | <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/><br>C++ | <img src="https://skillicons.dev/icons?i=c" alt="C"/><br>C |
+|:---:|:---:|:---:|:---:|
 
 ### 🛠️ Tools & Workflow
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-style:hidden;">
-  <tr style="border-style:hidden;">
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /><br>VS Code
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /><br>Figma
-    </td>
-  </tr>
-</table>
+| <img src="https://skillicons.dev/icons?i=git" alt="Git"/><br>Git | <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br>GitHub | <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br>VS Code | <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><br>Figma |
+|:---:|:---:|:---:|:---:|
 
 ### 🚀 Deployment & DevOps
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-style:hidden;">
-  <tr style="border-style:hidden;">
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br>Vercel
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /><br>Netlify
-    </td>
-    <td align="center" valign="top" style="border-style:hidden; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Hosting" /><br>Firebase<br>Hosting
-    </td>
-  </tr>
-</table>
+| <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/><br>Vercel | <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"/><br>Netlify | <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Hosting"/><br>Firebase<br>Hosting |
+|:---:|:---:|:---:|
 
 ---
 
