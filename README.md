@@ -70,7 +70,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" valign="top" style="padding:10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /><br>Firebase<br>Hosting
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /><br>Firebase
     </td>
   </tr>
 </table>
