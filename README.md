@@ -8,6 +8,16 @@
 
 ---
 
+---
+
+## 👨‍💻 About Me
+I'm a dedicated **Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills.
+📧 Email: mottasimsadi@gmail.com
+📱 WhatsApp: +8801554409444
+🔗 LinkedIn: https://www.linkedin.com/in/mottasimsadi/
+
+---
+
 ## 📫 Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mottasimsadi/">
@@ -16,6 +26,9 @@
   <a href="https://www.facebook.com/mottasim.sadi/">
     <img height="75" src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/Facebook.png" alt="Facebook">
   </a>
+  <a href="https://wa.me/+8801554409444">
+<img height="75" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </p>
 
 📧 **Email:** mottasimsadi@gmail.com  
@@ -80,6 +93,7 @@
 
 ## 📌 Current Activities
 
+- 🌱 **Exploring Next.js and TypeScript** to build full-stack applications.
 - 🎨 **Exploring Tailwind CSS & Shadcn UI** to create modern, responsive UI components  
 - ⚛ **Building ReactJS Projects** with reusable components and state management  
 - 🌐 **Improving Web Performance** through optimization techniques and best practices  
