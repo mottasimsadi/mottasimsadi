@@ -39,105 +39,114 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=html" />
-    <span>HTML5</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=css" />
-    <span>CSS3</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=js" />
-    <span>JavaScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=react" />
-    <span>React</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <span>Tailwind CSS</span>
-  </div>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <br>Tailwind CSS
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend & Databases
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <span>Node.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=express" />
-    <span>Express.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <span>MongoDB</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-    <span>Firebase</span>
-  </div>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+</table>
 
 ### 📝 Languages
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=python" />
-    <span>Python</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=java" />
-    <span>Java</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-    <span>C++</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=c" />
-    <span>C</span>
-  </div>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" />
+      <br>C
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Workflow
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=git" />
-    <span>Git</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=github" />
-    <span>GitHub</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <span>VS Code</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=figma" />
-    <span>Figma</span>
-  </div>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Deployment & DevOps
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-    <span>Vercel</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=netlify" />
-    <span>Netlify</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-    <span style="text-align: center;">Firebase<br>Hosting</span>
-  </div>
-</p>
-
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" />
+      <br>Firebase<br>Hosting
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📖 Developer Roadmap & Current Activities
