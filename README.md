@@ -39,114 +39,104 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=html" />
-      <br>HTML5
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=css" />
-      <br>CSS3
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=js" />
-      <br>JavaScript
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=react" />
-      <br>React
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" />
-      <br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <br>HTML5
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=css" />
+    <br>CSS3
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=js" />
+    <br>JavaScript
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=react" />
+    <br>React
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <br>Tailwind CSS
+  </div>
+</div>
 
 ### ⚙️ Backend & Databases
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=express" />
-      <br>Express.js
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <br>Node.js
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=express" />
+    <br>Express.js
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <br>MongoDB
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+    <br>Firebase
+  </div>
+</div>
 
 ### 📝 Languages
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=python" />
-      <br>Python
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=java" />
-      <br>Java
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=cpp" />
-      <br>C++
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=c" />
-      <br>C
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <br>Python
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=java" />
+    <br>Java
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <br>C++
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=c" />
+    <br>C
+  </div>
+</div>
 
 ### 🛠️ Tools & Workflow
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=git" />
-      <br>Git
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=github" />
-      <br>GitHub
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" />
-      <br>VS Code
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=git" />
+    <br>Git
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=github" />
+    <br>GitHub
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <br>VS Code
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <br>Figma
+  </div>
+</div>
 
 ### 🚀 Deployment & DevOps
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" style="border: none;" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" />
-      <br>Firebase<br>Hosting
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+    <br>Vercel
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+    <br>Netlify
+  </div>
+  <div align="center" style="width: 100px;">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+    <br>Firebase<br>Hosting
+  </div>
+</div>
 
 ---
 
