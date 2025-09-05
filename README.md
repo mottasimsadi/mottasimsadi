@@ -65,6 +65,7 @@ I'm a dedicated **Frontend Developer** focused on building modern, responsive, a
 <table>
   <tr>
     <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/python.png" width="48" /><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/><br>Java</td>
     <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/c.png" width="48" /><br>C</td>
     <td align="center"><img src="https://github.com/mottasimsadi/mottasimsadi/blob/main/Images/Icons/cpp.png" width="48" /><br>C++</td>
   </tr>
