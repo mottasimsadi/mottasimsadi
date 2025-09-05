@@ -39,25 +39,25 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<table align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=html" />
       <br>HTML5
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=css" />
       <br>CSS3
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=js" />
       <br>JavaScript
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=react" />
       <br>React
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" />
       <br>Tailwind CSS
     </td>
@@ -65,21 +65,21 @@
 </table>
 
 ### ⚙️ Backend & Databases
-<table align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=express" />
       <br>Express.js
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=mongodb" />
       <br>MongoDB
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=firebase" />
       <br>Firebase
     </td>
@@ -87,21 +87,21 @@
 </table>
 
 ### 📝 Languages
-<table align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=python" />
       <br>Python
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=java" />
       <br>Java
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=cpp" />
       <br>C++
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=c" />
       <br>C
     </td>
@@ -109,21 +109,21 @@
 </table>
 
 ### 🛠️ Tools & Workflow
-<table align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=git" />
       <br>Git
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=github" />
       <br>GitHub
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" />
       <br>VS Code
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=figma" />
       <br>Figma
     </td>
@@ -131,22 +131,23 @@
 </table>
 
 ### 🚀 Deployment & DevOps
-<table align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=netlify" />
       <br>Netlify
     </td>
-    <td align="center" width="100">
+    <td align="center" style="border: none;" width="100">
       <img src="https://skillicons.dev/icons?i=firebase" />
       <br>Firebase<br>Hosting
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📖 Developer Roadmap & Current Activities
