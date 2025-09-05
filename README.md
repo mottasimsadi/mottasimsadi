@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 I'm a dedicated **Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills.
 📧 Email: mottasimsadi@gmail.com
