@@ -36,25 +36,15 @@
 
 ---
 
-## ⚡ Tech Stack (Horizontal Layout)
+## ⚡ Tech Stack
 
 ### 🖌️ Frontend
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS
-  </span>
 </p>
 
 ### ⚙️ Backend & Databases
