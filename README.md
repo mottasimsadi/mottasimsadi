@@ -39,104 +39,104 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<p align="center">
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=html" />
     <br>HTML5
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=css" />
     <br>CSS3
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=js" />
     <br>JavaScript
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=react" />
     <br>React
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <br>Tailwind CSS
-  </span>
-</p>
+  </div>
+</div>
 
 ### ⚙️ Backend & Databases
-<p align="center">
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <br>Node.js
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=express" />
     <br>Express.js
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <br>MongoDB
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=firebase" />
     <br>Firebase
-  </span>
-</p>
+  </div>
+</div>
 
 ### 📝 Languages
-<p align="center">
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=python" />
     <br>Python
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=java" />
     <br>Java
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=cpp" />
     <br>C++
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=c" />
     <br>C
-  </span>
-</p>
+  </div>
+</div>
 
 ### 🛠️ Tools & Workflow
-<p align="center">
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=git" />
     <br>Git
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=github" />
     <br>GitHub
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=vscode" />
     <br>VS Code
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=figma" />
     <br>Figma
-  </span>
-</p>
+  </div>
+</div>
 
 ### 🚀 Deployment & DevOps
-<p align="center">
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=vercel" />
     <br>Vercel
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=netlify" />
     <br>Netlify
-  </span>
-  <span style="display: inline-block; width: 100px; text-align: center; margin: 0 10px;">
+  </div>
+  <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=firebase" />
     <br>Firebase<br>Hosting
-  </span>
-</p>
+  </div>
+</div>
 
 ---
 
@@ -167,7 +167,7 @@ A **community food sharing and surplus reduction platform** with authentication,
 ---
 
 ### 🌱 [Green Space](https://github.com/mottasimsadi/green-space-client)
-A **gardening community & resource hub** with gardening tips, gardener profiles, modals, and a trending tips section.  
+A **gardening community & resource hub** with gardening tips, gardener profiles, modals, and trending tips section.  
 **Tech:** React, Tailwind, DaisyUI, MongoDB, Firebase  
 
 ---
