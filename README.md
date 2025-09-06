@@ -37,7 +37,7 @@
 ---
 
 ### 🖌️ Frontend
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
   <tr>
     <td align="center" valign="top" style="padding:10px;">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /><br>HTML5
@@ -58,7 +58,7 @@
 </table>
 
 ### ⚙️ Backend & Databases
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
   <tr>
     <td align="center" valign="top" style="padding:10px;">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>Node.js
@@ -76,7 +76,7 @@
 </table>
 
 ### 📝 Languages
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
   <tr>
     <td align="center" valign="top" style="padding:10px;">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>Python
@@ -94,7 +94,7 @@
 </table>
 
 ### 🛠️ Tools & Workflow
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
   <tr>
     <td align="center" valign="top" style="padding:10px;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git
@@ -112,7 +112,7 @@
 </table>
 
 ### 🚀 Deployment & DevOps
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
   <tr>
     <td align="center" valign="top" style="padding:10px;">
       <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br>Vercel
@@ -134,7 +134,13 @@
 
 | ⏳ Timeline | 🛠️ What I'm Working On & Learning |
 |------------|----------------------------------|
-| **Now** 🟢 | <img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle;"/> **Next.js 15 (App Router & Auth)** – Building secure, scalable full-stack apps.<br><img src="https://skillicons.dev/icons?i=typescript" width="20" style="vertical-align:middle;"/> **TypeScript** – Writing type-safe, maintainable React code.<br><img src="https://skillicons.dev/icons?i=react" width="20" style="vertical-align:middle;"/> **ReactJS Projects** – Developing projects with reusable components and state management.<br><img src="https://skillicons.dev/icons?i=tailwind" width="20" style="vertical-align:middle;"/> **Tailwind CSS & Shadcn UI** – Designing modern, responsive UIs.<br>🌐 **Web Performance & Accessibility** – Optimizing apps for speed and usability.<br>🧩 **REST API Integration** – Fetching dynamic, real-time data.<br>📱 **Responsive Design** – Mobile-first approach. |
+| **Now** 🟢 | <img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle;"/> **Next.js 15 (App Router & Auth)** – Building secure, scalable full-stack apps.<br>
+<img src="https://skillicons.dev/icons?i=typescript" width="20" style="vertical-align:middle;"/> **TypeScript** – Writing type-safe, maintainable React code.<br>
+<img src="https://skillicons.dev/icons?i=react" width="20" style="vertical-align:middle;"/> **ReactJS Projects** – Developing projects with reusable components and state management.<br>
+<img src="https://skillicons.dev/icons?i=tailwind" width="20" style="vertical-align:middle;"/> **Tailwind CSS & Shadcn UI** – Designing modern, responsive UIs.<br>
+🌐 **Web Performance & Accessibility** – Optimizing apps for speed and usability.<br>
+🧩 **REST API Integration** – Fetching dynamic, real-time data.<br>
+📱 **Responsive Design** – Mobile-first approach. |
 | **Next** 🟡 | <img src="https://skillicons.dev/icons?i=mongodb" width="20" style="vertical-align:middle;"/> **MongoDB** – Handling databases, queries, and data management. |
 </div>
 
