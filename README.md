@@ -39,7 +39,7 @@
 ## ⚡ Tech Stack
 
 ### 🖌️ Frontend
-<div align="center" style="display: flex; justify-content: center; align-items: flex-row; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
   <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=html" />
     <br>HTML5
@@ -63,7 +63,7 @@
 </div>
 
 ### ⚙️ Backend & Databases
-<div align="center" style="display: flex; justify-content: center; align-items: flex-row; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
   <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <br>Node.js
@@ -83,7 +83,7 @@
 </div>
 
 ### 📝 Languages
-<div align="center" style="display: flex; justify-content: center; align-items: flex-row; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
   <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=python" />
     <br>Python
@@ -103,7 +103,7 @@
 </div>
 
 ### 🛠️ Tools & Workflow
-<div align="center" style="display: flex; justify-content: center; align-items: flex-row; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
   <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=git" />
     <br>Git
@@ -123,7 +123,7 @@
 </div>
 
 ### 🚀 Deployment & DevOps
-<div align="center" style="display: flex; justify-content: center; align-items: flex-row; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
   <div align="center" style="width: 100px;">
     <img src="https://skillicons.dev/icons?i=vercel" />
     <br>Vercel
