@@ -63,7 +63,7 @@
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js
@@ -83,7 +83,7 @@
 
 ### 📝 Languages
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=python" /><br>Python
@@ -103,7 +103,7 @@
 
 ### 🛠️ Tools & Workflow
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" /><br>Git
@@ -123,7 +123,7 @@
 
 ### 🚀 Deployment & DevOps
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vercel" /><br>Vercel
