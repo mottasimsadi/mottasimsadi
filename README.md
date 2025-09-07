@@ -40,7 +40,7 @@
 
 ### 🖌️ Frontend
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" /><br>HTML5
