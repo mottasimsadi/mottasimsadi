@@ -188,12 +188,23 @@ A **community food sharing and surplus reduction platform** with authentication,
 ---
 
 ### 🌱 [Green Space](https://github.com/mottasimsadi/green-space-client)
-A **gardening community & resource hub** with gardening tips, gardener profiles, modals, and trending tips section.  
+A **gardening community & resource hub** with gardening tips, gardener profiles, modals, and a trending tips section.  
 **Tech:** React, Tailwind, DaisyUI, MongoDB, Firebase  
 
 ---
 
-
+## 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/mottasimsadi/blood-connect-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mottasimsadi&repo=blood-connect-client&theme=radical" />
+  </a>
+  <a href="https://github.com/mottasimsadi/food-share-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mottasimsadi&repo=food-share-client&theme=radical" />
+  </a>
+  <a href="https://github.com/mottasimsadi/green-space-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mottasimsadi&repo=green-space-client&theme=radical" />
+  </a>
+</p>
 
 ---
 
