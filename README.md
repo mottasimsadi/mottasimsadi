@@ -142,13 +142,34 @@
 
 ## 📖 Developer Roadmap & Current Activities
 
-<div align="center">
+<p align="center">
 
-| ⏳ Timeline | 🛠️ What I'm Working On & Learning |
-|------------|----------------------------------|
-| **Now** 🟢 | <img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle;"/> **Next.js 15 (App Router & Auth)** – Building secure, scalable full-stack apps.<br><img src="https://skillicons.dev/icons?i=typescript" width="20" style="vertical-align:middle;"/> **TypeScript** – Writing type-safe, maintainable React code.<br><img src="https://skillicons.dev/icons?i=react" width="20" style="vertical-align:middle;"/> **ReactJS Projects** – Developing projects with reusable components and state management.<br><img src="https://skillicons.dev/icons?i=tailwind" width="20" style="vertical-align:middle;"/> **Tailwind CSS & Shadcn UI** – Designing modern, responsive UIs.<br>🌐 **Web Performance & Accessibility** – Optimizing apps for speed and usability.<br>🧩 **REST API Integration** – Fetching dynamic, real-time data.<br>📱 **Responsive Design** – Mobile-first approach. |
-| **Next** 🟡 | <img src="https://skillicons.dev/icons?i=mongodb" width="20" style="vertical-align:middle;"/> **MongoDB** – Handling databases, queries, and data management. |
-</div>
+<table align="center">
+  <tr>
+    <th>⏳ Timeline</th>
+    <th>🛠️ What I'm Working On & Learning</th>
+  </tr>
+  <tr>
+    <td><b>Now 🟢</b></td>
+    <td align="left">
+      <span><img src="https://skillicons.dev/icons?i=nextjs" width="20" valign="middle"/> <b>Next.js 15 (App Router & Auth)</b> – Building secure, scalable full-stack apps.</span><br>
+      <span><img src="https://skillicons.dev/icons?i=typescript" width="20" valign="middle"/> <b>TypeScript</b> – Writing type-safe, maintainable React code.</span><br>
+      <span><img src="https://skillicons.dev/icons?i=react" width="20" valign="middle"/> <b>ReactJS Projects</b> – Developing projects with reusable components and state management.</span><br>
+      <span><img src="https://skillicons.dev/icons?i=tailwind" width="20" valign="middle"/> <b>Tailwind CSS & Shadcn UI</b> – Designing modern, responsive UIs.</span><br>
+      🌐 <b>Web Performance & Accessibility</b> – Optimizing apps for speed and usability.<br>
+      🧩 <b>REST API Integration</b> – Fetching dynamic, real-time data.<br>
+      📱 <b>Responsive Design</b> – Mobile-first approach.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Next 🟡</b></td>
+    <td align="left">
+      <span><img src="https://skillicons.dev/icons?i=mongodb" width="20" valign="middle"/> <b>MongoDB</b> – Handling databases, queries, and data management.</span>
+    </td>
+  </tr>
+</table>
+
+</p>
 
 ---
 
